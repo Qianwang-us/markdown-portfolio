@@ -1,7 +1,7 @@
 ### Skills
 ##### Programming Languages
-- Java
-- Python
+- Java (**favorite**)
+- Python (*newly added*)
 - HTML/CSS/JavaScript
 
 ##### Collaboration
